@@ -1,3 +1,5 @@
+# Main technologies
+This microservice is developed using Quarkus as a java-based backend development framework and Apache Solr NoSql database 
 # search
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
